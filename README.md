@@ -44,6 +44,23 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
+# E-book: A importância de um Analista de Dados
+
+## 📒 Descrição
+Um e-book de 12 páginas sobre a importância de um profissional Analista de Dados nos dias atuais.
+
+## 🤖 Tecnologias Utilizadas
+- ChatGPT
+- Leonardo AI
+- Microsoft Power Point
+
+## 🧐 Processo de Criação
+Utilizei o Leonardo AI para gerar a imagem, o ChatGPT para o texto e o PowerPoint para edição e finalização.
+
+## 🚀 Resultados
+Link: https://docs.google.com/presentation/d/1FsZPxNN5D0yREi32Ra1uyerIHObfcUVz/edit?usp=sharing&ouid=105938038176514472913&rtpof=true&sd=true
+
+
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
